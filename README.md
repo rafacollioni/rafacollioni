@@ -44,14 +44,6 @@ Estou sempre explorando novas tecnologias, ferramentas e formas de transformar i
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-F24E1E.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rafacollioni&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafacollioni&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafacollioni&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 
 ## 🚀 Atualmente
